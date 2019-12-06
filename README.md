@@ -12,3 +12,4 @@ GAME RULES:
 - The first player to reach entered points on GLOBAL score wins the game
 
 
+
